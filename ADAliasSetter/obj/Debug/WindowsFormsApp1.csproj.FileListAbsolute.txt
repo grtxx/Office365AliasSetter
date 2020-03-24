@@ -1,0 +1,10 @@
+C:\Users\grt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+C:\Users\grt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\grt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+C:\Users\grt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\grt\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\adaliassetter.exe.config
+C:\Users\grt\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\adaliassetter.exe
+C:\Users\grt\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\adaliassetter.pdb
+C:\Users\grt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\adaliassetter.Properties.Resources.resources
+C:\Users\grt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\adaliassetter.exe
+C:\Users\grt\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\adaliassetter.pdb
